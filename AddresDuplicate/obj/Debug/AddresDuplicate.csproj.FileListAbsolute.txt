@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleApp\AddresDuplicate\bin\Debug\AddresDuplicate.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleApp\AddresDuplicate\bin\Debug\AddresDuplicate.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleApp\AddresDuplicate\obj\Debug\AddresDuplicate.dll
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleApp\AddresDuplicate\obj\Debug\AddresDuplicate.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\ConsoleApp\AddresDuplicate\obj\Debug\AddresDuplicate.csprojResolveAssemblyReference.cache
